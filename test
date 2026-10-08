@@ -1,0 +1,16 @@
+[
+  {
+    "id": "char_fury",
+    "name": "Fury",
+    "base_hp": 20,
+    "base_speed": 10,
+    "base_melee_damage": 5,
+    "starting_weapon": "weapon_barbs_of_scorn",
+    "traits": [
+      "+15% Attack Speed",
+      "-20% Ranged Damage",
+      "Can find Hollows in the shop"
+    ],
+    "texture_path": "res://mods/FuryMashup/assets/char_fury.png" 
+  }
+]
